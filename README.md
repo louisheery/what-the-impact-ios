@@ -9,5 +9,5 @@ Source code of the iOS Application What The Impact, which is currently under rev
 
 
 
-### Diagram of Code Structure
+## Diagram of Code Structure
 ![alt text](https://github.com/louisheery/what-the-impact-ios/blob/master/what-the-impact-ios-diagram.png)
